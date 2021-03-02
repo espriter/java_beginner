@@ -1,11 +1,11 @@
 package spring.di;
 
-import spring.di.entity.Exam;
+//import spring.di.entity.Exam;
 
 public class Program {
     public static void main(String[] args) {
 
-        Exam exam = new NewlecExam();
+//        Exam exam = new NewlecExam();
 
     }
 }
